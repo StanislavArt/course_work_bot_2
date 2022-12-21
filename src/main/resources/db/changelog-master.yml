@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: db/scripts/table_notification_task.sql
